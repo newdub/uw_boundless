@@ -1,5 +1,8 @@
 UW Boundless - A Bootstrap 7.x-3.0 Sub-theme for Drupal.
 
+I'm adding this to the top of the newdub/uw_boundless theme. Wondering what will happen to the messages on github once I push it. 
+About to find out I guess...
+
 REQUIREMENTS
 ---------------
 1. UW Boundless requires Bootstrap 7.x-3.0 base-theme. Download Bootstrap 3 for Drupal (https://www.drupal.org/project/bootstrap). 
